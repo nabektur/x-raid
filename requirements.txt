@@ -1,0 +1,9 @@
+certifi
+aiohttp
+websockets
+tls-client
+websocket-client
+deep-translator
+colorama
+requests
+pywin32
