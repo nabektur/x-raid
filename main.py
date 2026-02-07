@@ -128,7 +128,6 @@ def menu():
         menu_lines.append(('header', f"{HEADER}{'═' * 60}{RESET_ALL}"))
         menu_lines.append(('empty', ''))
         
-        
         options = [
             [('01', 'Info Token'), ('02', 'GuildInfo')],
             [('', ''), ('', '')],
