@@ -1,9 +1,9 @@
 # X-Raid
 ### Discord Advanced Raid Tool
 
-![Иллюстрация работы рейдтула](https://github.com/nabektur/x-raid/blob/main/raidtool-preview.png)
-
 Универсальный рейдтул/raidtool для Discord
+
+![Иллюстрация работы рейдтула](https://github.com/nabektur/x-raid/blob/main/raidtool-preview.png)
 
 Инструкция использования:
 - Скачайте Python (желательно версии 3.13/3.14) на сайте https://www.python.org/downloads (нужно поставить галочку при установке: "Add python.exe to PATH")
