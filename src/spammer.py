@@ -399,8 +399,8 @@ def main():
     
     if use_spotify:
         activity["details"] = input(Fore.RED + "Введите текст для Spotify (например, URL или описание): " + Style.RESET_ALL).strip() or "https://discord.gg/jNDea8rtPq"
-        activity["state"] = input(Fore.RED + "Введите текст для Spotify (например, статус): " + Style.RESET_ALL).strip() or "R-ZONE ON THE TOP"
-        activity["assets"]["large_text"] = input(Fore.RED + "Введите текст для Spotify (например, подпись): " + Style.RESET_ALL).strip() or "R-ZONE ON THE TOP"
+        activity["state"] = input(Fore.RED + "Введите текст для Spotify (например, статус): " + Style.RESET_ALL).strip() or "✠ ВАС ВЫЕБ@ЛИ R-ZONE CLXN ✠"
+        activity["assets"]["large_text"] = input(Fore.RED + "Введите текст для Spotify (например, подпись): " + Style.RESET_ALL).strip() or "✠ ВАС ВЫЕБ@ЛИ R-ZONE CLXN ✠"
 
     existing_user_ids = read_users(directory)
     if existing_user_ids:
