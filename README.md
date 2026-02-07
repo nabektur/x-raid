@@ -1,6 +1,8 @@
 # X-Raid
 ### Discord Advanced Raid Tool
 
+![Иллюстрация работы рейдтула](https://github.com/nabektur/x-raid/blob/main/raidtool-preview.png)
+
 Универсальный рейдтул/raidtool для Discord
 
 Инструкция использования:
