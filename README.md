@@ -1,2 +1,1 @@
-# x-raid
-Discord Advanced Raid Tool
+# X-Raid | Discord Advanced Raid Tool
