@@ -6,4 +6,3 @@ websocket-client
 deep-translator
 colorama
 requests
-pywin32
